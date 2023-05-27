@@ -6,8 +6,8 @@ const PrivacyPage = () => {
     const data = [
         {
             title: `PRIVACY POLICY`,
-            content: <>This website under the domain of <b>https://ondc-food.netlify.app/</b> and all other sub-domains under the
-                top level URL are operated by <b>Mahan Bharat</b> Co Ltd, hereby referred to as “ondc”
+            content: <>This website under the domain of <b>https://free-vpn-app.vercel.app/</b> and all other sub-domains under the
+                top level URL are operated by <b>Mahan Bharat</b> Co Ltd, hereby referred to as “Free Vpn”
                 We take your privacy very seriously and we ask that you read this privacy policy carefully as it
                 contains important information on:
                 <li> the personal information we collect about you</li>
@@ -19,7 +19,7 @@ const PrivacyPage = () => {
         },
         {
             title: `Who we are`,
-            content: <>ondc ('we' or 'us') are a 'data controller' for the purposes of the Personal Data Protection
+            content: <>Free Vpn ('we' or 'us') are a 'data controller' for the purposes of the Personal Data Protection
                 Act (PDPA) and any subsequent Inida data protection legislation and we are responsible for, and
                 control the processing of, your personal information.</>
         },
@@ -139,11 +139,11 @@ const PrivacyPage = () => {
         {
             title: `How can you delete you personal information ?            `,
             content: <>You may request your account deletion request via our website at
-                 <b> ankit.rama.yadav@gmail.com</b></>
+                <b> ankit.rama.yadav@gmail.com</b></>
         },
         {
             title: `Important Note about account deletion`,
-            content: <>Please note that ondc uses a multi-channel
+            content: <>Please note that Free Vpn uses a multi-channel
                 user login system. In case you have used multiple brands across multiple channels (such as
                 LINE, Google, Web, Facebook) – please list all the potential email addresses and phone
                 number(s) that you have used to access our services. Please be very specific in your message,
@@ -169,8 +169,8 @@ const PrivacyPage = () => {
                 <li> obtain a copy of the personal data we process concerning you. We will take steps to</li>
                 verify your identity before responding to your request. Once we have verified your
                 identity we will respond as soon as possible and in any event within one month.
-                If you would like to exercise any of your rights or find out more, please contact us via 
-                 <b>  ankit.rama.yadav@gmail.com</b></>
+                If you would like to exercise any of your rights or find out more, please contact us via
+                <b>  ankit.rama.yadav@gmail.com</b></>
         },
         {
             title: `Changes to this Privacy Policy`,
@@ -185,7 +185,7 @@ const PrivacyPage = () => {
         }
     ]
 
- 
+
 
     return (
         <div style={{ backgroundColor: "#e5e5e5", padding: "2rem 3rem" }}>

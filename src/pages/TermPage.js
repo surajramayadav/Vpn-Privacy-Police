@@ -5,8 +5,7 @@ const TermPage = () => {
     const data = [
         {
             title: "LEGAL AGREEMENT",
-            content: <>These are the terms and conditions (“Terms”) that govern your use of this website and any
-                purchase of a Product (“Food Delivery or Pickup”).
+            content: <>These are the terms and conditions (“Terms”) that govern your use of this website.
                 This forms a legal agreement between you, the user of the website and purchaser of any
                 Product(s), and <b>Mahan Bharat</b> Co Ltd ( “we”, “us”, “our”) and you must agree to these Terms in
                 order to purchase a Product(s)
