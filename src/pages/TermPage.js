@@ -118,7 +118,7 @@ const TermPage = () => {
 
     return (
         <div style={{ backgroundColor: "#e5e5e5", padding: "2rem 3rem" }}>
-            <h1>Terms and Conditions</h1>
+            <h1 style={{ marginTop: 100 }}>Terms and Conditions</h1>
             <p>Last updated: June 30, 2023</p>
             <p>Please read these terms and conditions carefully before using Our Service.</p>
             <h1>Interpretation and Definitions</h1>
